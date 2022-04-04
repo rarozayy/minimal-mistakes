@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :@rarozayy
 facebook:
   username               :
   app_id                 :
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Rayan Zahem"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am a student in mechanical engineering and computer science passionated by the world of WEB3."
+  location         : "Paris, France"
   email            :
   links:
     - label: "Email"
